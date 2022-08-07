@@ -14,6 +14,8 @@
 
 ![Admin Manage Booking](https://user-images.githubusercontent.com/84923637/183281267-8e6986ee-74b8-4ae0-95b1-fe52c35e4c45.jpg)
 
+![Admin Manage Issues](https://user-images.githubusercontent.com/84923637/183281340-bf904e5c-8c3d-4a07-a894-2c7c9759867c.jpg)
+
 ![Home](https://user-images.githubusercontent.com/84923637/183278122-53fad28e-71ab-40fa-8473-f2c3915b72f4.jpg)
 
 ![About](https://user-images.githubusercontent.com/84923637/183278265-c6c4bd27-98da-4dca-a98c-3a2a0f1b1f3b.jpg)
