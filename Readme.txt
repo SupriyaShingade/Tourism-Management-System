@@ -6,7 +6,7 @@
 
 ![Tour Packages](https://user-images.githubusercontent.com/84923637/183278457-c703c717-8dc2-49cd-8f81-d22eb7ce6b25.jpg)
 
-
+![Privacy Policy](https://user-images.githubusercontent.com/84923637/183278532-85c5f946-bce5-481a-9458-24762564b76d.jpg)
 
 
 
