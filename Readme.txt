@@ -20,6 +20,8 @@
 
 ![Enquiry](https://user-images.githubusercontent.com/84923637/183278934-b53296fb-f4c3-44a6-8865-671cebed4c09.jpg)
 
+![Admin Change Password](https://user-images.githubusercontent.com/84923637/183281597-35516c4d-3b32-46b5-bc71-b72b7fd2ad8a.jpg)
+
 ![Admin Dashboard](https://user-images.githubusercontent.com/84923637/183279339-4d9ad79c-82ec-456b-9bd5-04eb4cc1c44c.jpg)
 
 ![Admin Tour Package Create](https://user-images.githubusercontent.com/84923637/183279471-bda86937-d37a-4613-bd02-d093bd25e23a.jpg)
