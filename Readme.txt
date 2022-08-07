@@ -8,7 +8,7 @@
 
 ![Privacy Policy](https://user-images.githubusercontent.com/84923637/183278532-85c5f946-bce5-481a-9458-24762564b76d.jpg)
 
-
+![Terms](https://user-images.githubusercontent.com/84923637/183278710-0483d279-6e75-4df2-bde6-f1451bea7668.jpg)
 
 ![Contact Us](https://user-images.githubusercontent.com/84923637/183278677-c70e2d95-9716-4d9e-a144-b69cf2bfaef5.jpg)
 
