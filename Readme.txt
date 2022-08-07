@@ -8,6 +8,7 @@
 
 ![Admin Tour Package Create](https://user-images.githubusercontent.com/84923637/183279471-bda86937-d37a-4613-bd02-d093bd25e23a.jpg)
 
+![Admin Tour Packages Manage](https://user-images.githubusercontent.com/84923637/183279560-9ea7990c-34be-4fb9-91b6-9dff1914b0f5.jpg)
 
 ![Home](https://user-images.githubusercontent.com/84923637/183278122-53fad28e-71ab-40fa-8473-f2c3915b72f4.jpg)
 
