@@ -49,8 +49,8 @@ Open Your browser put inside browser “http://localhost/rsn”
 
 Login Details for admin : 
 Open Your browser put inside browser “http://localhost/rsn/admin”
-Username : admin
-Password : Test@123
+Username : admin@gmail.com
+Password : admin@123
 
 Login Details for user: 
 Open Your browser put inside browser “http://localhost/rsn/”
