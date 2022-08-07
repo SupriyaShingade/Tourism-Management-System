@@ -18,6 +18,8 @@
 
 ![Admin Manage Enqueries](https://user-images.githubusercontent.com/84923637/183281397-4bd1cf07-fd1e-49c5-99b7-8e55fe358c6d.jpg)
 
+![Admin Manage Pages](https://user-images.githubusercontent.com/84923637/183281475-aee6f61e-434f-4c0c-bde7-1fe0809e8918.jpg)
+
 ![Home](https://user-images.githubusercontent.com/84923637/183278122-53fad28e-71ab-40fa-8473-f2c3915b72f4.jpg)
 
 ![About](https://user-images.githubusercontent.com/84923637/183278265-c6c4bd27-98da-4dca-a98c-3a2a0f1b1f3b.jpg)
